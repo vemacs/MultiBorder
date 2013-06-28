@@ -1,0 +1,7 @@
+author: vemacs
+description: Highly customizable and advanced world borders for Bukkit, supports multiple
+  square and circular borders.
+main: com.nullblock.vemacs.plugins.multiborder.MultiBorder
+name: MultiBorder
+url: https://github.com/vemacs/MultiBorder
+version: '1.0'
